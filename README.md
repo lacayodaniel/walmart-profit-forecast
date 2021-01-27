@@ -2,7 +2,7 @@
 A project from my python class during my sophomore year. Utilizes matplotlib and sklearn to predict profit at Walmart locations from city population.
 
 ## Set-up and Installation
-This project utilizes pipenv, the package manager. Open a terminal in the project directory and..
+This project utilizes `pipenv`, the package manager. Open a terminal in the project directory and..
 
 1. Install pipenv
 `pip install pipenv`
