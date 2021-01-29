@@ -1,6 +1,10 @@
 # walmart-profit-forecast
 A project from my python class during my sophomore year. Utilizes matplotlib and sklearn to predict profit at Walmart locations from city population.
 
+## Files
+`MachineLearningAssignment.pdf` is the assignment from my professor. <br>
+`ProjectReport.pdf` is my assignment submission.
+
 ## Set-up and Installation
 This project utilizes `pipenv`, the package manager. Open a terminal in the project directory and..
 
